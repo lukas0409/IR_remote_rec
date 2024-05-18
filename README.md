@@ -7,18 +7,18 @@
 
 Serial.println(results.decode_type); 이 코드를 사용해 프로토콜 타입을 확인하세요.
 
-0: UNKNOWN 
-1: NEC 
-2: SONY 
-3: RC5 
-4: RC6 
-5: PANASONIC_OLD 
-6: JVC 
-7: NECX 
-8: SAMSUNG36 
-9: GICABLE 
-10: DIRECTV 
-11: RCMM 
+0: UNKNOWN   
+1: NEC   
+2: SONY   
+3: RC5   
+4: RC6   
+5: PANASONIC_OLD   
+6: JVC   
+7: NECX   
+8: SAMSUNG36   
+9: GICABLE   
+10: DIRECTV   
+11: RCMM   
  
 IRremote 4.3.1 라이브러리는 다음과 같은 프로토콜을 지원합니다:
 NEC / Onkyo / Apple
